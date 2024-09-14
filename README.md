@@ -55,7 +55,7 @@ python app.py
 
 ## Screenshots
 
-![Translator GUI](screenshot.png)
+![Translator GUI](ss.png)
 
 ## License
 
@@ -65,13 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Pravesh-Sudha](https://github.com/Pravesh-Sudha)
 
-```
-
-### Steps for You:
-1. Replace `screenshot.png` with an actual screenshot of your app.
-2. Add a `LICENSE` file if you plan to use the MIT license.
-3. Create a `requirements.txt` file with the following content:
-   ```txt
-   googletrans==4.0.0-rc1
-   ```
 
