@@ -1,6 +1,3 @@
-Here is a sample `README.md` file for your Python Translator app:
-
-```md
 # Leefo Translator
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Pravesh-Sudha/python-translator/blob/main/LICENSE)
